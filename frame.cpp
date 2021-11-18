@@ -17,7 +17,6 @@ FrameT::FrameT(){
 
     //Configuração do Labels
     this->m_label.set_markup("<span font='Untitled1' size='24000'>AAAAAAAAAAAA\nAAAAAAAAAAAA\nAAAAAAAAAAAA\nAAAAAAAAAAAA\nAAAAAAAAAAAA\nAAAAAAAAAAAA\nAAAAAAAAAAAA\nAAAAAAAAAAAA\n</span>");
-    this->m_label.set_markup("<span font='Untitled1' size='24000'>AAAAAAAAAAAA\nAAAAAAAAAAAA\nABAAAAAAAAAA\nAAAAAAAAAAAA\nAAAAAAAAAAAA\nAAAAAAAAAAAA\nAAAAAAAAAAAA\nAAAAAAAAAAAA\n</span>");
     this->m_label.set_alignment(0,0);
     this->m_label.set_margin_start(7);
 
