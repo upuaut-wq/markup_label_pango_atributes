@@ -1,0 +1,98 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2021, user
+UComments: "2021-11-18: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 981 -534214527 6609056]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1637266770
+ModificationTime: 1637272046
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+DEI: 91125
+Encoding: iso8859-14
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 48 16 5
+BeginChars: 256 3
+
+StartChar: ydieresis
+Encoding: 255 255 0
+Width: 800
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+15 784 m 1
+ 785 782 l 1
+ 785 16 l 1
+ 15 20 l 1
+ 15 784 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: A
+Encoding: 65 65 1
+Width: 800
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 800 m 1
+ 800 800 l 1
+ 800 0 l 1
+ 0 0 l 1
+ 0 800 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: B
+Encoding: 66 66 2
+Width: 1000
+Flags: HO
+LayerCount: 2
+Fore
+SplineSet
+298 627 m 1
+ 675.690429688 627.178710938 l 1
+ 864.690429688 300.178710938 l 1
+ 697 -24 l 1
+ 298.309570312 -27.1787109375 l 1
+ 109.309570312 299.821289062 l 1
+ 298 627 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
